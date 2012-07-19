@@ -1,7 +1,6 @@
-Title: 怎样才能长生不老
-Author: Dazuo Sun
-Date: Mon April 9 2012 06:23:00 GMT+0800 (China Standard Time)
-Lang: 健康
+---
+layout: post
+---
    好吧，请允许我标题党一把。
    
    最近老妈学中医卓有成效，气色脾气都比原来好了很多，mark下老妈教我的几招。毕竟看了公司里许多同事先后生病住院，深知这个世界上
