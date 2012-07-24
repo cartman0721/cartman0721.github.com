@@ -1,9 +1,10 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:title 
+permalink: pretty
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
+markdown: rdiscount 
 pygments: true
 
 # Themes are encouraged to use these universal variables 
@@ -12,10 +13,10 @@ pygments: true
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : dazuo sun
+  email : sundazuo@gmail.com
+  github : cartman0721
+  twitter : cartman890721
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -26,7 +27,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.com
+production_url : localhost:4000
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -81,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : cartman0721
     livefyre :
       site_id : 123
     intensedebate :
@@ -99,7 +100,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-30974960-1'
     getclicky :
       site_id : 
     mixpanel :

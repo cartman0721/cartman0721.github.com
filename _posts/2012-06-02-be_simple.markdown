@@ -1,7 +1,7 @@
-Title: be simple and naive
-Author: Dazuo Sun
-Date: Sat June 2, 2012 22:30:00 GMT+0800 (China Standard Time)
-Lang: summary
+---
+layout: post
+title: be simple and naive
+---
  
 加入新团队已经两周了,这两周状态不是很好，这边的需求计划是倒排的，时间上的安排上没有主动性，导致上周末和这周一身体有些疲劳，周三开始的感冒可能也是那几天身体透支引起的。工作之余check了之前写的对自己的[警示](http://dazuo.me/first_half_of_2012),节奏这一块掌握的不好，让人沮丧。
 

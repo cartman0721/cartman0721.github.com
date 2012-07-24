@@ -1,7 +1,7 @@
-Title: 写在加入新团队之前
-Author: Dazuo Sun
-Date: Sat May 21, 2012 21:00:00 GMT+0800 (China Standard Time)
-Lang: summary
+---
+layout: post
+title: 写在加入新团队之前
+---
  
 上周老板找到我，说要把我调到前台C类业务团队，吃惊意外之余，价值观不由地小小挣扎了下：为什么拥抱变化的总是我？
 

@@ -1,0 +1,33 @@
+---
+layout: index
+---
+
+<div id="main" class="clearfix">
+    {% for post in site.posts %}
+    <div class="article">
+        <div class="author">
+            <img src="http://www.gravatar.com/avatar/c81504d9e182e2fa56034b873a21094e?r=pg&amp;s=30.jpg&amp;d=identicon">
+            By Dazuo Sun
+            <div title="" class="date">
+                {{ post.date | date : "%Y-%m-%d"}}
+            </div>
+        </div>
+        <h3 style="margin-right: 150px">
+            <a href="{{ post.url }}">
+                {{ post.title }}
+            </a>
+        </h3>
+        <p>
+        </p>
+        <p>
+        
+       {{ post.content | strip_html | truncate:521 | truncatewords:100}}
+        </p>
+        {% if forloop.last == false %}
+        <br/>
+        <hr/>
+        {% endif %} 
+    </div>
+ {% endfor %}
+  </div>
+

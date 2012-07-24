@@ -1,0 +1,122 @@
+<div id="sidebar" style="float:right">
+    <div class="aside clearfix">
+        <h4>
+            About the Author
+        </h4>
+        <img src="http://www.gravatar.com/avatar/c81504d9e182e2fa56034b873a21094e?s=900"
+        class="headshot" />
+        <dl>
+            <dt>
+                Name:
+            </dt>
+            <dd>
+                Dazuo Sun
+            </dd>
+        </dl>
+        <dl>
+            <dt>
+                Weibo:
+            </dt>
+            <dd>
+                <a href="http://weibo.com/cartman0721">
+                    cartman0721
+                </a>
+            </dd>
+        </dl>
+        <dl>
+            <dt>
+                Github:
+            </dt>
+            <dd>
+                <a href="http://github.com/cartman0721">
+                    cartman0721
+                </a>
+            </dd>
+        </dl>
+        <dl>
+            <dt>
+                Douban:
+            </dt>
+            <dd>
+                <a href="http://www.douban.com/people/cartman0721/">
+                    cartman0721
+                </a>
+            </dd>
+        </dl>
+        <dl>
+            <dt>
+                Location:
+            </dt>
+            <dd>
+                Hangzhou, CN
+            </dd>
+        </dl>
+        <dt>
+            Introduction:
+        </dt>
+        <dd>
+            <p>
+                <a href="http://about.me/cartman0721">
+                    Sun
+                </a>
+                is a java web application programmer from  
+                <a href="http://www.alibaba.com/">
+                    Alibaba
+                </a>
+                with strong interest in javascript, Python and NodeJS as well.
+            </p>
+        </dd>
+    </div>
+    <div class="bubble">
+        <h4>
+            Articles by this Author
+        </h4>
+        <ul>
+           {% for post in site.posts %}
+           <li>
+            <a  style="font-family: sans-serif;
+                        font-size: 18px;
+                        line-height: 1.6em;
+                        color: #2CA8FF;
+                        font-weight: bold;
+                        text-decoration: none;
+                        cursor: auto;
+                        text-align: -webkit-match-parent;
+                        list-style-type: disc;
+                        " 
+                href="{{ post.url }}">
+                 {{ post.title }}
+            </a>
+           </li>
+          {% endfor %}
+        </ul>
+    </div>
+    <div class="bubble">
+        <h3>
+            About dazuo.me
+        </h3>
+        <p>
+            dazuo.me is a personal blog created by
+            <a href="http://about.me/cartman0721">
+                Dazuo Sun
+            </a>
+            . The purpose of this blog is to record personal experience of life and
+            work.
+            <a href="/atom.xml">
+                RSS(订阅)
+            </a>
+        </p>
+        <p>
+            This site is powered by
+            <a href="https://github.com/mojombo/jekyll">
+                Jekyll
+            </a>
+            , a git based blogging engine written in
+                Ruby
+            . The template of this blog is modified by
+            <a href="http://howtonode.org">
+                howtonode.org
+            </a>
+        </p>
+    </div>
+</div>

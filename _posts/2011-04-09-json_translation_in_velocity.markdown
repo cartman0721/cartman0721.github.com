@@ -1,7 +1,7 @@
-Title: 悲剧启示录 1------velocity中json转译的问题
-Author: Dazuo Sun
-Date: Mon April 9 2011 06:23:00 GMT+0800 (China Standard Time)
-Lang: js
+---
+layout: post
+title: 悲剧启示录 1------velocity中json转译的问题
+---
    
    今天转义json的特殊字符，一路上磕磕绊绊，几次柳暗花明又一村的感觉，整个过程还是蛮有意思的。
 

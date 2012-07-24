@@ -1,7 +1,7 @@
-Title: nodejs 初学记录
-Author: Dazuo Sun
-Date: Fri April 1 2012 10:39:00 GMT+0800 (China Standard Time)
-Lang: nodejs
+---
+layout: post
+title: nodejs 初学记录
+---
 ###1.首先是安装
 参考[这里](http://www.infoq.com/cn/articles/nodejs-npm-install-config)
 由于nodejs不支持原生态的windows，在windows上安装稍显费力。

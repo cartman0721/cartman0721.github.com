@@ -1,7 +1,7 @@
-Title: macbook pro 使用小记
-Author: Dazuo Sun
-Date: Fri Jun 23 2012 13:10:00 GMT+0800 (China Standard Time)
-Lang: mac
+---
+layout: post
+title: macbook pro 使用小记
+---
 
 
 上周末把Mac装上了SSD，到此为止，机器终于折腾的比较让我满意。启动时间只要12秒，开各种eclipse，dreamweaver，outlook，N多标签页的chrome和firefox毫无压力。

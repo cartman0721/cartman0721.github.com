@@ -1,7 +1,7 @@
-Title: regex 学习记录
-Author: Dazuo Sun
-Date: Tue May 22 2012 11:13:00 GMT+0800 (China Standard Time)
-Lang: regex
+---
+layout: post
+title: regex 学习记录
+---
 
 看到一篇质量颇高的关于正则表达式的文章（[点我](http://deerchao.net/tutorials/regex/regex.htm))，清楚明白，循序渐进，打消我了一度对正则表达式的畏惧感，至少不用一写正则表达式就要打开google了。
 
