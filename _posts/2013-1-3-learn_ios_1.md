@@ -1,3 +1,7 @@
+---
+layout: post
+title: 一个java码农的IOS学习笔记（1）
+---
 ###学习资料
 
 * stanford university的视频资料 [点我](http://i.youku.com/u/UOTYxNjIxNTY=/videos)
